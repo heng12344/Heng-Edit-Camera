@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Qwen Image Edit: Camera Angle Control",
+  "description": "An advanced image editing application that uses AI to manipulate camera angles, zoom, and rotation based on user controls. Users can upload an image and use intuitive sliders to generate text prompts that instruct Gemini to re-render the image from a new perspective. Also includes features for AI image generation and in-depth image analysis.",
+  "requestFramePermissions": []
+}
